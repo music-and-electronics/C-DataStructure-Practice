@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/john/CLionProjects/IntStack/IntStack.c
+stdio.h
+-
+stdlib.h
+-
+IntStack.h
+/home/john/CLionProjects/IntStack/IntStack.h
+
+/home/john/CLionProjects/IntStack/IntStack.h
+
+/home/john/CLionProjects/IntStack/main.c
+stdio.h
+-
+

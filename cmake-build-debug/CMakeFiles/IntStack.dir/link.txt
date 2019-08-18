@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/IntStack.dir/main.c.o CMakeFiles/IntStack.dir/IntStack.c.o  -o IntStack 
